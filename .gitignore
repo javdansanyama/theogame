@@ -1,0 +1,7 @@
+node_modules
+dist
+.vite
+.DS_Store
+public/pwa-192.png
+public/pwa-512.png
+public/pwa-512-maskable.png
